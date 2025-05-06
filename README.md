@@ -1,7 +1,7 @@
 # 📦 Supply Chain Analytics and Demand Forecasting with Python
 
 This project is my practice with Python applying statistical models learned during master program at TU Dresden. It demonstrates a complete data analytics workflow on a real-world supply chain dataset, using **Python** for **ETL (Extract, Transform, Load)**, **Exploratory Data Analysis (EDA)**, and **Time Series Forecasting**.
-The dataset I used is from [DataCo Smart Supply Chain for Big Data Analysis](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis). Please cite the dataset and the author if you use this data in your own work.
+The dataset I used is from [DataCo Smart Supply Chain for Big Data Analysis, by Fernando Silva and António Pereira](https://data.mendeley.com/datasets/8gx2fvg2k6/5). Please cite the dataset and the author if you use this data in your own work.
 
 ## 🧠 Why I Chose This Dataset
 I picked this dataset from Kaggle because it feels close to real business problems in logistics and sales. It includes order information, shipping modes, product categories, customer regions, and dates — all useful for understanding supply chain operations from multiple angles. It’s also clean enough to work with, but still complex enough to make the analysis interesting — exactly what I needed to improve my data analysis workflow and modeling in Python.
