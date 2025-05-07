@@ -18,7 +18,7 @@ This dataset reflects real business operations, including order details, product
 - Covers multiple countries, product types, and time periods  
 - Includes structured time-related features for trend modeling
 
-##⚙️ Tools & Libraries I used
+## ⚙️ Tools & Libraries I used
 - **Python** (`pandas`, `numpy`, `matplotlib`, `seaborn`, `pmdarima`, `statsmodels`)
 - **VS Code** – main code editor
 - **Anaconda** – manages the Python environment, packages, and dependencies
